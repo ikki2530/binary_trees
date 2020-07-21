@@ -1,5 +1,3 @@
-#include <stdlib.h>
-#include <stdio.h>
 #include "binary_trees.h"
 /**
  * binary_tree_insert_right - insert a node to the right
